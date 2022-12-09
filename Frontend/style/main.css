@@ -57,7 +57,7 @@
 
 .section-title   {
     border-bottom: 3px solid #fcbb3a;
-    width: 6%;
+    width: 7%;
     padding-bottom: 5px;
     margin-bottom: 20px;
 }
@@ -66,10 +66,10 @@
 .tag {
     z-index: 3;
     background-color: #fcbb3a;
-    padding: 25rem 1,25rem;
+    padding: 0.25rem 1.25rem;
     position: absolute;
     bottom: 0;
-    left: 15px;
+    left: 17px;
     border-radius: 0px 20px;
     min-height: 30px;
 }
@@ -82,7 +82,7 @@
     font-family: 'Poppins';
     font-style: normal;
     font-weight: 600;
-    font-size: 17px;
+    font-size: 20px;
     color: #000000;
 }
 
@@ -117,8 +117,7 @@
     background-position: center;
     background-size: cover;
     background-repeat: no-repeat;
-
-    transition: all 0,3s ease;
+    transition: all 0.3s ease;
 }
 /* Tutup Categories */
 
@@ -137,7 +136,7 @@
     border: #000000;
     padding-bottom: 15px;
 
-    transition: all 0,2s ease-in-out;
+    transition: all 0.2s ease-in-out;
 }
 
 .component-products:hover {
@@ -149,7 +148,7 @@
     padding: 0,5rem;
     border-radius: 8px 8px;
     background: #F6FAFD;
-    transition: all 0,3s ease;
+    transition: all 0.3s ease;
 }
 
 .products-text {
@@ -213,10 +212,8 @@
     font-family: 'Poppins';
     font-style: normal;
     font-weight: 500;
-    font-size: 18px;
-    line-height: 27px;
-    color: #030303;
-
+    font-size: 20px;
+    color: #000000;
     transition: all 0,3s ease;
 }
 
